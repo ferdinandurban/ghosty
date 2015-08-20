@@ -1,8 +1,9 @@
-# Albireo [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.svg)](https://waffle.io/santonocito/albireo)
+# Albireo [![Stories in Ready](https://badge.waffle.io/waffleio/waffle.io.svg)](https://waffle.io/ferdinandurban/ghosty)
 
 A simple theme for [Ghost](http://github.com/tryghost/ghost/).
 
-![Albireo - Clean Ghost Theme](https://raw.github.com/santonocito/albireo/master/screenshot.png)
+It is based on ![Albireo - Clean Ghost Theme](https://github.com/santonocito/albireo)
+
 
 ## Copyright & License
 
