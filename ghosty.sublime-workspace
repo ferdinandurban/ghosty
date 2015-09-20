@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"include"
+			],
+			[
+				"add_lib",
+				"ADD_LIBRARY"
+			],
+			[
+				"target_",
+				"target_link_libraries"
+			],
+			[
+				"CPPUNI",
+				"CPPUNIT_HEADERS"
+			],
+			[
+				"include",
+				"include_directories"
+			],
+			[
+				"inclu",
+				"include_directories"
+			],
+			[
+				"add",
+				"add_subdirectory"
+			],
+			[
+				"add_",
+				"add_library"
+			],
+			[
+				"end",
+				"endif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "author.hbs",
+			"settings":
+			{
+				"buffer_size": 1788,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ferdinand/Projects/www/ghosty"
+	],
+	"file_history":
+	[
+		"/Users/ferdinand/Projects/www/ghosty/tag.hbs",
+		"/Users/ferdinand/Projects/idatovka/LICENSE",
+		"/Users/ferdinand/Documents/Shill/FU/PDSHL1-0025352504-20150420-090526.xml",
+		"/Users/ferdinand/Downloads/albireo/author.hbs",
+		"/Users/ferdinand/Documents/with_excludes.txt",
+		"/Users/ferdinand/Downloads/307617177_0_CSSZ_Protokol_o_zpracovani_e-Podani_CSSZ_ONZ-44E672F0BF824A33B6D97774BE40B803-307059364.xml",
+		"/Users/ferdinand/Downloads/ONZ.xml",
+		"/private/var/tmp/sysdiagnose_2015.09.12_20-53-21+0200_7614/diskutil.txt",
+		"/private/var/tmp/sysdiagnose_2015.09.12_20-53-21+0200_7614/error_log.txt",
+		"/private/var/tmp/sysdiagnose_2015.09.12_20-53-21+0200_7614/disks.txt",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/estragon.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/bazalka_prava.html",
+		"/Users/ferdinand/Downloads/themeforest-6492760-maximus-html-5-one-page-responsive-theme 2/maximus_v1.2/blog-detail.html",
+		"/Users/ferdinand/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/water_mimosa.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/tymian_citronovy.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/tymian.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/thajske_cibulky.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/shiso_listy.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/saturejka_zahradni.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/salvej_lekarska.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/rukola.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/rozmaryn.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/provensalsky_mix.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/polevkove_koreni.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/petrzel_listova.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/petrzel_kaderava.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/pazitka.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/pandanove_listy.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/oregano.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/mojito_pack.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/milansky_mix.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/medunka_lekarska.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/mata_rybi.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/mata.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/majoranka.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/libecek_lekarsky.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/koriandr_vietnamsky.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/koriandr_mexicky.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/kopr_vonny.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/kerblik_trebule.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/kayang.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/bazalka_thajska.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/assets/css/main.css",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/herbs.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/index.html",
+		"/Users/ferdinand/Projects/cmake_xcode/CMakeLists.txt",
+		"/Users/ferdinand/Projects/cmake_xcode/build/CMakeCache.txt",
+		"/Users/ferdinand/Projects/cmake_xcode/build/install_manifest.txt",
+		"/Users/ferdinand/Library/Containers/it.bloop.airmail2/Data/Library/Application Support/Airmail/General/Tmp/Unknown Name",
+		"/Users/ferdinand/Downloads/themeforest-6492760-maximus-html-5-one-page-responsive-theme 2/maximus_v1.2/index.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/herbs/bazalka_prava.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/jasfresh.sublime-project",
+		"/Users/ferdinand/Projects/www/ghosty/page.hbs",
+		"/Users/ferdinand/Projects/www/ghosty/partials/loop.hbs",
+		"/Users/ferdinand/Projects/www/ghosty/default.hbs",
+		"/Users/ferdinand/Projects/JAS/config.js",
+		"/Users/ferdinand/Projects/www/ghosty/author.hbs",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/assets/js/main.js",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/assets/php/submit.php",
+		"/Users/ferdinand/Projects/www/home.md",
+		"/Users/ferdinand/Downloads/leptonica-1.72/Makefile",
+		"/Users/ferdinand/Downloads/leptonica-1.72/src/makefile.static",
+		"/Users/ferdinand/Downloads/leptonica-1.72/style-guide.txt",
+		"/Users/ferdinand/Downloads/jquery.cookiebar/jquery.cookiebar.js",
+		"/Users/ferdinand/Projects/www/ghosty/README.md",
+		"/Users/ferdinand/Library/Caches/com.binarynights.ForkLift2/#5/submit.php",
+		"/Users/ferdinand/Library/Caches/com.binarynights.ForkLift2/#4/submit.php",
+		"/Users/ferdinand/Library/Caches/com.binarynights.ForkLift2/#2/index.html",
+		"/Users/ferdinand/Downloads/ferdinandurban.com.zone",
+		"/Users/ferdinand/Library/Caches/com.binarynights.ForkLift2/#3/index.html",
+		"/Users/ferdinand/.ssh/known_hosts",
+		"/Users/ferdinand/Downloads/blackhole-master/cmake/CodeCoverage.cmake",
+		"/Users/ferdinand/Projects/Common/simple_server.py",
+		"/Users/ferdinand/Downloads/themeforest-6492760-maximus-html-5-one-page-responsive-theme/maximus_v1.2/index.html",
+		"/Users/ferdinand/Projects/JAS/www/web/jas_fresh/assets/css/colors/default.css",
+		"/Users/ferdinand/Library/Caches/com.binarynights.ForkLift2/#0/submit.php",
+		"/Users/ferdinand/Library/Caches/com.binarynights.ForkLift2/1/ferdinandurban.com.zone",
+		"/Users/ferdinand/Downloads/themeforest-6492760-maximus-html-5-one-page-responsive-theme/maximus_v1.2/project1.html",
+		"/Users/ferdinand/Projects/JAS/www/web/maximus_v1.2/assets/css/main.css",
+		"/Users/ferdinand/Projects/JAS/www/web/maximus_v1.2/index.html",
+		"/Users/ferdinand/hello/config.xml",
+		"/Users/ferdinand/Projects/JAS/www/web/maximus_v1.2/assets/css/flexslider.css",
+		"/Users/ferdinand/Projects/JAS/www/web/maximus_v1.2/assets/css/colors/green-color.css",
+		"/Users/ferdinand/Downloads/TriggerToolkit/trigger/forge_tool.py",
+		"/Users/ferdinand/hello/platforms/ios/HelloWorld/config.xml",
+		"/Users/ferdinand/Projects/Udemy/SpriteKit/Scoring_and_game_controls/Flappy Bird/GameScene.swift",
+		"/Users/ferdinand/Downloads/TriggerToolkit/workspace.py",
+		"/Users/ferdinand/Documents/Shill/FU/DS/PDSHL1-0025352504-20150623-140218-pracovni.xml.txt",
+		"/Users/ferdinand/Documents/Shill/FU/DS/278385974_0_PDSHL1-0025352504-20150515-085508.xml",
+		"/Users/ferdinand/Downloads/SurfJournal-Starter/attribution.txt",
+		"/Users/ferdinand/Downloads/PDSHL1-0025352504-20150623-140425.xml",
+		"/Users/ferdinand/Downloads/QR Code Business Card/SVG/qr-code-business-card-back-1.svg",
+		"/Users/ferdinand/Projects/cmake_xcode/Main.cpp",
+		"/Users/ferdinand/Projects/cmake_xcode/HelloWorld.cpp",
+		"/Users/ferdinand/Downloads/cmake-hello-world-master/CMakeLists.txt",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/Hello/MyClass.cpp",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/Hello/MyClass.h",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/HelloWorld.cpp",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/CMakeLists.txt",
+		"/Users/ferdinand/Downloads/cmake-hello-world-master/Main.cpp",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/MyClass/CMakeLists.txt",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/Libs/CMakeLists.txt",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/add_framework.cmake",
+		"/Users/ferdinand/Projects/HopesSDK_new/HopesSer/CMakeLists.txt",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/Hello/CMakeLists.txt",
+		"/Users/ferdinand/Downloads/cmake-hello-world-master/Hello/CMakeLists.txt",
+		"/Users/ferdinand/Projects/cmake-hello-world-master/LICENSE",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529093216.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529094801.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529094715.log",
+		"/Users/ferdinand/Projects/Trask/tmp/airid_device_disconnected_error.txt",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529095149.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529101935.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529104459.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529103615.log",
+		"/Users/ferdinand/Downloads/cmake-hello-world-master/HelloWorld.cpp",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529092538.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529093027.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150520000323.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150529091122.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150525213200.log",
+		"/Users/ferdinand/Projects/Trask/tmp/corrcet_pki_card.txt",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150512101234.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150528134156.log",
+		"/Users/ferdinand/Downloads/log/mobi20150528140858.log",
+		"/Users/ferdinand/Downloads/log/mobi20150528140853.log",
+		"/Users/ferdinand/Projects/Trask/tmp/mobi20150527152012.log"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"majoranka",
+			"polevkove_koreni",
+			"koriandr_mexicky",
+			"libecek_lekarsky",
+			"kopr_vonny",
+			"kerblik_trebule",
+			"kayang",
+			"estragon",
+			"bazalka_thajska",
+			"bazalka_prava",
+			"majoranka",
+			"polevkove_koreni",
+			"koriandr_mexicky",
+			"libecek_lekarsky",
+			"kopr_vonny",
+			"kerblik_trebule",
+			"kayang",
+			"estragon",
+			"koriandr_mexicky",
+			"estragon",
+			"png",
+			"kayang",
+			"bazalka_thajska",
+			"hover",
+			"jas",
+			"screw",
+			"scre",
+			"screw",
+			"work-phase",
+			"h2",
+			"flex-active",
+			"slider-wrapper",
+			"home-slider",
+			"MC",
+			"Hello",
+			"CMakeHelloWorld",
+			"Speaker",
+			"speaker",
+			"Speaker",
+			"WrongOrNoPkiCard",
+			"rema",
+			"1440",
+			"handleCardLoginWithStatus",
+			"inside showPki",
+			"handleCardLoginWithStatus",
+			"inside showPki",
+			"current card status",
+			"inside showPki",
+			"inside",
+			"Bold",
+			"bold",
+			"000000",
+			"-6",
+			"retrieval",
+			"remain",
+			"Logging out ",
+			"120 ",
+			"Sasso crypto did change status ",
+			"foregr",
+			"AMDeviceNotificationSubscribe",
+			"device_callback",
+			"handle_device",
+			"Found",
+			"\\",
+			"Meetup",
+			"3c46d321-2f42-41a7-9112-de7fdb7011b5",
+			"42bb9e43-df8e-44fa-807e-1439634221a8",
+			"fuel",
+			"sur",
+			"443446720",
+			"25712",
+			"443446720",
+			"1421662807000",
+			"{\"Error\":",
+			"Error:",
+			"refuel",
+			"AvgSpeed",
+			"JVM",
+			"LikePlace",
+			"SyncData",
+			"indent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "author.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 26.0
+	},
+	"pinned_build_system": "",
+	"project": "ghosty.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
